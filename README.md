@@ -13,10 +13,10 @@ This dashboard provides a visual exploration of Airbnb listings in Lisbon throug
 - **🗺️ Map of Listings**  
   Displays the geographic distribution of listings across Lisbon, helping users identify clusters and popular zones.
 
-- **💲 Price Distribution (Bar Chart)**  
+- **💲 Price Distribution **  
   Visualizes the range and frequency of listing prices across the city.
 
-- **🏙️ Most Popular Neighborhoods (Bar Chart)**  
+- **🏙️ Most Popular Neighborhoods **  
   Ranks neighborhoods by the number of listings, highlighting Airbnb hotspots.
 
 - **📊 Average Price by Neighborhood**  
