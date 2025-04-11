@@ -1,6 +1,6 @@
 # 🏡 Airbnb Listings in Lisbon, Portugal - Tableau Dashboard
 
-Welcome to the **Airbnb Lisbon Dashboard**, a Tableau-based interactive tool designed to explore and analyze Airbnb listings across Lisbon. Whether you're a traveler, host, or data analyst, this dashboard offers insights into pricing, satisfaction, and neighborhood trends.
+A Tableau Dashboard to explore and analyze Airbnb listings across Lisbon. Whether you're a traveler, host, or data analyst, this dashboard offers insights into pricing, satisfaction, and neighborhood trends.
 
 ---
 
@@ -29,11 +29,11 @@ This dashboard provides a visual exploration of Airbnb listings in Lisbon throug
 
 ## 🎛️ Interactive Filters
 
-Refine your view of the data using the following filter controls:
+Filter the data using the following controls:
 
 ### 🔘 Dropdown Filters:
-- **Neighborhood** — Focus on specific areas in Lisbon.
-- **Price Range** — Explore listings within a selected price bracket.
+- **Neighborhood** — Focus on specific neighborhoods in Lisbon.
+- **Price Range** — Explore listings within a selected price range.
 - **Room Type** — Filter by type (Entire Home, Private Room, Shared Room, etc.).
 
 ### 🎚️ Slider Filters:
@@ -43,38 +43,8 @@ Refine your view of the data using the following filter controls:
 
 ---
 
-## ✅ How to Use
-
-1. Open the dashboard in Tableau or on Tableau Public.
-2. Use filters at the top to narrow down listings.
-3. Hover over data points for detailed tooltips.
-4. Interact with the map and bar charts to explore neighborhood-specific trends.
-
----
-
-## 📁 Dashboard Contents
-
-- **Map View** — Location of listings.
-- **Bar Charts** — Price distribution, neighborhood popularity, price & satisfaction comparisons.
-- **Filter Panel** — Interactive controls for a customized experience.
-
----
-
-## 🛠️ Requirements
-
-- Tableau Desktop or Tableau Public (Web)
-- Internet connection (for Tableau Public version)
-
----
-
-## 📬 Feedback & Support
-
-For feedback, questions, or to report data issues, please contact the dashboard creator or data analytics team.
-
----
-
 ## 📊 Data Source
 
-Data used in this dashboard comes from publicly available Airbnb listings data for Lisbon, Portugal.
+Data used in this dashboard comes from the website https://insideairbnb.com/.
 
 ---
